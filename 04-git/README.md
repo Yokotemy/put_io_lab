@@ -74,7 +74,7 @@ powinien spełniać specyfikację i wszystkie przypadki kontrolne, również te
 dopisane podczas pracy.
 
 ## Przypadek bez produkótw
-`java 04-git/Program.java 0 100 0`
+`java 04-git/Program.java -1 100 0`
 stderr: `Błąd: ilość musi być nieujemna.`
 Kod 1
 =======

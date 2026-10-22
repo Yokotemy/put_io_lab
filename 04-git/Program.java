@@ -12,6 +12,11 @@ public class Program {
             double unitPrice = Double.parseDouble(args[1]);
             double discount = Double.parseDouble(args[2]);
 
+            if (quantity < 0) {
+                System.err.println("Błąd: ilość musi być nieujemna.");
+                System.exit(1);
+            }
+
             if (!Double.isFinite(unitPrice) || unitPrice < 0
                     || !Double.isFinite(discount) || discount < 0 || discount > 100) {
                 System.err.println("Błąd: cena musi być nieujemna, a rabat od 0 do 100.");

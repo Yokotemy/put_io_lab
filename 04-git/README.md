@@ -74,6 +74,7 @@ powinien spełniać specyfikację i wszystkie przypadki kontrolne, również te
 dopisane podczas pracy.
 
 ## Przypadek bez produkótw
-| Polecenie z głównego katalogu repozytorium | Oczekiwany wynik |
-|java 04-git/Program.java 0 100 0 | Cena: 0.00 |
+`java 04-git/Program.java 0 100 0`
+stderr: `Błąd: ilość musi być nieujemna.`
+Kod 1
 =======

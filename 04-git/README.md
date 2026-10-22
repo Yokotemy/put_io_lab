@@ -1,4 +1,4 @@
-# Kalkulator kosztu przesyłki
+# Kalkulator ceny zamówienia
 
 Projekt ćwiczeniowy na laboratoria z Gita: jeden plik `Program.java` korzystający
 wyłącznie ze standardowej biblioteki Javy. Starter celowo zawiera błędy opisane
@@ -72,3 +72,11 @@ przypadki przed wykonaniem ćwiczeń.
 Ta lista opisuje wersję początkową. Po zakończeniu wszystkich ćwiczeń program
 powinien spełniać specyfikację i wszystkie przypadki kontrolne, również te
 dopisane podczas pracy.
+
+## Przypadek bez produkótw
+|---|---|
+
+| Polecenie z głównego katalogu repozytorium | Oczekiwany wynik | 
+|---|---|---|
+| `java 04-git/Program.java 0 100 0` | stdout: `Cena: 0.00` |
+=======

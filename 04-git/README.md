@@ -72,3 +72,7 @@ przypadki przed wykonaniem ćwiczeń.
 Ta lista opisuje wersję początkową. Po zakończeniu wszystkich ćwiczeń program
 powinien spełniać specyfikację i wszystkie przypadki kontrolne, również te
 dopisane podczas pracy.
+
+## Przypadek bez produkótw
+| Polecenie z głównego katalogu repozytorium | Oczekiwany wynik |
+|java 04-git/Program.java 0 100 0 | Cena: 0.00 |

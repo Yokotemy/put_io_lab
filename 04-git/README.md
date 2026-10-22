@@ -75,6 +75,8 @@ dopisane podczas pracy.
 
 ## Przypadek bez produkótw
 |---|---|
-| Polecenie z głównego katalogu repozytorium | Oczekiwany wynik |
+
+| Polecenie z głównego katalogu repozytorium | Oczekiwany wynik | 
+|---|---|---|
 | `java 04-git/Program.java 0 100 0` | stdout: `Cena: 0.00` |
 =======
